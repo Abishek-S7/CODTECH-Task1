@@ -26,7 +26,7 @@
 ![Screenshot (107)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(107).png)
 ![Screenshot (108)](https://github.com/HARSHAVARTHAN-M/CODETECH-TASK-1-web_blog/blob/main/assets/Screenshot%20(108).png)
 
-***Project: BLOG APPLICATION USING MERNSTACK***
+***Project: SIMPLE BLOG APPLICATION USING MERNSTACK***
 
 <br>
 
