@@ -2,7 +2,7 @@
 
 **Company:** CODTECH IT SOLUTIONS
 
-**ID:** CT08DS5185 OFFER
+**ID:** CT08DS5185
 
 **Domain:** FULL STACK
 
