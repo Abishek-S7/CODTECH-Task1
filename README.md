@@ -6,7 +6,7 @@
 
 **Domain:** FULL STACK
 
-**Duration:** JULY 10th,2024 to AUGUST 10th,2024
+**Duration:** JULY 15th,2024 to AUGUST 15th,2024
 
 **Mentor:** MUZAMMIL AHMED
 
