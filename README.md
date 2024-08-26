@@ -1,16 +1,4 @@
-**Name:** ABISHEK S
 
-**Company:** CODTECH IT SOLUTIONS
-
-**ID:** CT08DS5185
-
-**Domain:** FULL STACK
-
-**Duration:** JULY 15th,2024 to AUGUST 15th,2024
-
-**Mentor:** MUZAMMIL AHMED
-
-<br>
 
 
 ****Overview of the Project****
